@@ -11,13 +11,13 @@
   <dd>Streamline Features and filter the TOP 10 movies in different genres.</dd>
 
   <dt>Step 3:</dt>
-  <dd>Design an emulated distributed file system on Google Firebase and AWS, including NameNode and DataNode.</dd>
+  <dd>Design an emulated distributed file system on <b>Google Firebase</b> and <b>AWS</b>, including NameNode and DataNode.</dd>
 
   <dt>Step 4:</dt>
-  <dd>Develop an application by Python GUI.</dd>
+  <dd>Develop an application by <b>Python GUI</b>.</dd>
 
   <dt>Step 5:</dt>
-  <dd>Conduct A/B testing for UI optimization.</dd>
+  <dd>Conduct <b>A/B testing</b> for UI optimization.</dd>
 
   
 </dl>
